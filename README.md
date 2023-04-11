@@ -16,7 +16,7 @@ bash
     pip install -r requirements.txt
 
 Create a file api_key.txt in the project directory and paste your CoinMarketCap API key.
-
+Create a folder named 'JSON'.
 Usage
 
 To start the program, run main.py from the command line.
