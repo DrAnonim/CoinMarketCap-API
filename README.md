@@ -3,9 +3,9 @@ CoinMarketCap API parsing
 This project is an implementation of the CoinMarketCap API to retrieve data on the latest cryptocurrency listings. The API retrieves data on cryptocurrencies' prices, volumes, and other market data.
 Installation
 
-    Clone the repository to your local machine using the command:
+Clone the repository to your local machine using the command:
 
-    bash
+bash
 
     git clone https://github.com/username/CoinMarketCap-API.git
 
