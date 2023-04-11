@@ -15,7 +15,7 @@ bash
 
     pip install -r requirements.txt
 
-    Create a file api_key.txt in the project directory and paste your CoinMarketCap API key.
+Create a file api_key.txt in the project directory and paste your CoinMarketCap API key.
 
 Usage
 
