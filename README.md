@@ -7,7 +7,7 @@ Installation
 
     bash
 
-git clone https://github.com/username/CoinMarketCap-API.git
+    git clone https://github.com/username/CoinMarketCap-API.git
 
 Install the required packages using the command:
 
