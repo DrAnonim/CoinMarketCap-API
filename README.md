@@ -7,7 +7,7 @@ Clone the repository to your local machine using the command:
 
 bash
 
-    git clone https://github.com/username/CoinMarketCap-API.git
+    git clone https://github.com/DrAnonim/CoinMarketCap-API.git
 
 Install the required packages using the command:
 
