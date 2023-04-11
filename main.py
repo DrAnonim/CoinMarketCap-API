@@ -144,7 +144,6 @@ def write_json_from_loads(file_name: str, coins_usd_raw: List[dict[str, Any]]) -
     """
     # Print the filename and the data to be written to the file
     print(file_name)
-    print(coins_usd_raw)
     # Change the directory to the JSON subdirectory
     os.chdir("../JSON")
     # Open the file with the specified filename in write mode and write the data to the file
